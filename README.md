@@ -2,7 +2,13 @@
 ## Visão geral:
 <img align="left" width="500" src="https://github.com/amandalmeida2/Contoso_Sales/blob/main/Imagens/Dashboard.png?raw=true">
 Projeto de análise de vendas do banco de dados Contoso Retail, o dashboard foi desenvolvido com Power BI e teve como objetivo identificar os principais fatores que influenciam as vendas da empresa Contoso.
+<br></br>
+<a href="https://github.com/amandalmeida2/Contoso_Sales.git"> Clique aqui</a>  para acessar o repositório no Github.
 
+<br></br>
+<a target="_blank" href="https://app.powerbi.com/view?r=eyJrIjoiNDFiMDBkOWMtYjRmYS00ZjFmLTgwZTEtYWM1YzgxZmViYWExIiwidCI6Ijc1OGRlZGVlLTk1YmItNGU2Mi05MWU2LTU3OTRiMTUwZjFhYSJ9" >Clique aqui</a> e acesse a solução desenvolvida.
+<br></br>
+<br></br>
 ### Necessidades identificadas antes do desenvolvimento do Dashboard:
 
 **•	Dificuldade com Grande Volume de Dados:** O grande volume de dados dificultava a exportação do sistema atual e a manipulação das informações em planilhas, especialmente ao utilizar macros e tabelas dinâmicas.
@@ -17,10 +23,7 @@ Projeto de análise de vendas do banco de dados Contoso Retail, o dashboard foi 
 O banco de dados Contoso Retail é bem estruturado e organizado, o que facilita a análise e a modelagem de dados. Para o projeto, foi necessário realizar uma modelagem e organização adicionais dos dados para atender aos requisitos específicos da análise. Isso incluiu a preparação de dados, criação de relações e a definição de métricas chave, assegurando que as informações estivessem prontas para serem usadas de forma eficiente no Power BI.
 
  <br></br>
- 
  <br></br>
- 
-
 ### Medidas 
 
 <img align="left" width="300" src="https://raw.githubusercontent.com/amandalmeida2/Contoso_Sales/a78f752406a5de36355072d50caa205be08a1afe/Imagens/Medidas.png"> 
