@@ -1,8 +1,8 @@
 # Contoso Sales
 ## Visão geral:
-<img  width="500" src="https://github.com/amandalmeida2/Contoso_Sales/blob/main/Imagens/Dashboard.png?raw=true">
 Projeto de análise de vendas do banco de dados Contoso Retail, o dashboard foi desenvolvido com Power BI e teve como objetivo identificar os principais fatores que influenciam as vendas da empresa Contoso.
-<br></br>
+
+<img  width="500" src="https://github.com/amandalmeida2/Contoso_Sales/blob/main/Imagens/Dashboard.png?raw=true">
 <a href="https://github.com/amandalmeida2/Contoso_Sales.git"> Clique aqui</a>  para acessar o repositório no Github.
 <br></br>
 <a target="_blank" href="https://app.powerbi.com/view?r=eyJrIjoiNDFiMDBkOWMtYjRmYS00ZjFmLTgwZTEtYWM1YzgxZmViYWExIiwidCI6Ijc1OGRlZGVlLTk1YmItNGU2Mi05MWU2LTU3OTRiMTUwZjFhYSJ9" >Clique aqui</a> e acesse a solução desenvolvida.
@@ -17,10 +17,9 @@ Projeto de análise de vendas do banco de dados Contoso Retail, o dashboard foi 
 **•	Medição de Desempenho e Performance ao Longo do Tempo:** A empresa precisava medir o desempenho e a performance ao longo do tempo, com foco em variações anuais e mensais.
 
 ### Modelo e Fonte de Dados
-
-<img  width="500" src="https://github.com/amandalmeida2/Contoso_Sales/blob/main/Imagens/Modelo%20de%20dados%20PBI.png?raw=true">
 O banco de dados Contoso Retail é bem estruturado e organizado, o que facilita a análise e a modelagem de dados. Para o projeto, foi necessário realizar uma modelagem e organização adicionais dos dados para atender aos requisitos específicos da análise. Isso incluiu a preparação de dados, criação de relações e a definição de métricas chave, assegurando que as informações estivessem prontas para serem usadas de forma eficiente no Power BI.
 
+<img  width="500" src="https://github.com/amandalmeida2/Contoso_Sales/blob/main/Imagens/Modelo%20de%20dados%20PBI.png?raw=true">
 
 ### Medidas 
 
@@ -48,11 +47,9 @@ Além dessas, também foram desenvolvidas medidas temporais, incluindo:
 Essas medidas temporais permitem realizar comparações entre diferentes períodos, facilitando a análise de tendências e variações ao longo do tempo.
 
 ### Tabela DimCalendário
-<img  width="500" src="https://github.com/amandalmeida2/Contoso_Sales/blob/main/Imagens/Tabela%20Dimcalendario.png?raw=true">
-
 Para aprimorar a análise temporal e possibilitar uma visualização mais detalhada das vendas ao longo do tempo, foi criada uma Tabela DimCalendário. Esta tabela é um componente essencial no modelo de dados, oferecendo uma estrutura robusta para a análise de tendências e variações temporais.
  
-
+<img  width="500" src="https://github.com/amandalmeida2/Contoso_Sales/blob/main/Imagens/Tabela%20Dimcalendario.png?raw=true">
 Com essa analise chegamos ao dashboard interativo, que contem filtros de categorias, de periodo, de classe de produtos. O dashboard conta tambem com menu lateral para aplicar os filtros 
 Esse dashboard interativo desenvolvido no Power BI oferece uma visualização clara e acessível dos dados de vendas da Contoso Retail. Ele foi projetado para facilitar a análise e a interpretação dos dados, proporcionando uma experiência de usuário intuitiva.
 
