@@ -48,7 +48,7 @@ Além dessas, também foram desenvolvidas medidas temporais, incluindo:
 Essas medidas temporais permitem realizar comparações entre diferentes períodos, facilitando a análise de tendências e variações ao longo do tempo.
 
 ### Tabela DimCalendário
-<img align="right" width="500" src="https://github.com/amandalmeida2/Contoso_Sales/blob/main/Imagens/Tabela%20Dimcalendario.png?raw=true">
+<img  width="500" src="https://github.com/amandalmeida2/Contoso_Sales/blob/main/Imagens/Tabela%20Dimcalendario.png?raw=true">
 
 Para aprimorar a análise temporal e possibilitar uma visualização mais detalhada das vendas ao longo do tempo, foi criada uma Tabela DimCalendário. Esta tabela é um componente essencial no modelo de dados, oferecendo uma estrutura robusta para a análise de tendências e variações temporais.
  
@@ -57,7 +57,7 @@ Com essa analise chegamos ao dashboard interativo, que contem filtros de categor
 Esse dashboard interativo desenvolvido no Power BI oferece uma visualização clara e acessível dos dados de vendas da Contoso Retail. Ele foi projetado para facilitar a análise e a interpretação dos dados, proporcionando uma experiência de usuário intuitiva.
 
 ### Principais Funcionalidades
- <img align="right" width="500" src="https://github.com/amandalmeida2/Contoso_Sales/blob/main/Imagens/Dashboard%20-%20Filtro.png?raw=true">
+ <img  width="500" src="https://github.com/amandalmeida2/Contoso_Sales/blob/main/Imagens/Dashboard%20-%20Filtro.png?raw=true">
 
 **•	Menu Lateral de Filtros:** O dashboard inclui filtros que permitem aos usuários ajustar a visualização dos dados conforme suas necessidades
 
